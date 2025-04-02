@@ -87,6 +87,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>springboot-employee-tutorial</finalName>
 	</build>
 
 </project>
